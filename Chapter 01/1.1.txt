@@ -1,0 +1,15 @@
+01. Vs code extension
+	code runner
+
+02. code runner shortcut settings
+
+file > preferences > keyboard shortcuts
+
+03. if php not in global path
+
+setting > code runner > executor map > settings.json >
+
+edit "php": "php",
+
+ex: "php" : "path" (c:\\php\\php.exe)
+		
